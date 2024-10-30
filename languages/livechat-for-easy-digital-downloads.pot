@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: livechat-for-easy-digital-downloads\n"
+"POT-Creation-Date: 2019-08-29 17:13+0200\n"
+"PO-Revision-Date: 2018-10-17 01:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: LiveChat, Inc <apps@livechatinc.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/LiveChatEddAdmin.class.php:79
+msgid "Settings"
+msgstr ""
+
+#: ../includes/templates/ConnectNotice.class.php:15
+msgid "Action required - connect LiveChat"
+msgstr ""
+
+#: ../includes/templates/ConnectNotice.class.php:18
+msgid "Please"
+msgstr ""
+
+#: ../includes/templates/ConnectNotice.class.php:19
+msgid "connect your LiveChat account"
+msgstr ""
+
+#: ../includes/templates/ConnectNotice.class.php:20
+msgid "to start chatting with your customers."
+msgstr ""
+
+#: ../includes/templates/ConnectNotice.class.php:26
+msgid "Connect"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:17
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:37
+msgid "Quick Feedback"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:50
+msgid "If you have a moment, please let us know why you are deactivating LiveChat:"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:66
+msgid "I no longer need the plugin."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:82
+msgid "I couldn't get the plugin to work."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:98
+msgid "I found a better plugin."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:114
+msgid "It's a temporary deactivation."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:131
+msgid "Other"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:139
+msgid "Tell us more..."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:144
+msgid "Please choose one of available options."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:147
+msgid "Please provide additional feedback."
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:163
+msgid "Skip & continue"
+msgstr ""
+
+#: ../includes/templates/DeactivationFeedbackForm.class.php:166
+msgid "Send feedback"
+msgstr ""
+
+#: ../includes/templates/Install.class.php:31
+msgid "Check out our apps for"
+msgstr ""
+
+#: ../includes/templates/Install.class.php:31
+msgid "desktop or mobile!"
+msgstr ""
+
+#: ../includes/templates/ReviewNotice.class.php:14
+msgid "Hey, you’ve been using <strong>LiveChat</strong> for more than 14 days - that’s awesome! Could you please do us a BIG favour and <strong>give LiveChat a 5-star rating on WordPress</strong>? Just to help us spread the word and boost our motivation."
+msgstr ""
+
+#: ../includes/templates/ReviewNotice.class.php:15
+msgid "<strong>&ndash; The LiveChat Team</strong>"
+msgstr ""
+
+#: ../includes/templates/ReviewNotice.class.php:18
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: ../includes/templates/ReviewNotice.class.php:21
+msgid "Maybe later"
+msgstr ""
+
+#: ../includes/templates/ReviewNotice.class.php:24
+msgid "No, thanks"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:19
+msgid "LiveChat is now installed on your website!"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:29
+msgid "Currently you are using your"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:31
+msgid "LiveChat account."
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:33
+msgid "Something went wrong?"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:33
+msgid "Disconect your account."
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:42
+msgid "Show cart details"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:42
+msgid "See the product's and total value of your customer's cart."
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:44
+#: ../includes/templates/Settings.class.php:54
+#: ../includes/templates/Settings.class.php:64
+msgid "No"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:48
+#: ../includes/templates/Settings.class.php:58
+#: ../includes/templates/Settings.class.php:68
+msgid "Yes"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:52
+msgid "Disable LiveChat on mobile"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:52
+msgid "Hide chat window for the mobile version of your website."
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:62
+msgid "Disable LiveChat for Guest users"
+msgstr ""
+
+#: ../includes/templates/Settings.class.php:62
+msgid "Hide chat window for not logged-in users."
+msgstr ""
